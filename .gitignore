@@ -1,0 +1,6 @@
+.DS_Store
+*.aux
+*.bcf
+*.log
+*.run.xml
+*.gz
